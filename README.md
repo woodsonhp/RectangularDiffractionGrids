@@ -14,7 +14,7 @@ The code applies to a Fraunhofer diffraction with following ***assumptions***:
 
 *   The distance between the light screen and the aperture is much larger than the aperture size, so that the **Fraunhofer diffraction model** is applicable.
 
-*   Each calculation only considers ideal monochromatic light with a **fix wavelength** in current version.
+*   Each calculation only considers ideal monochromatic light with a **fixed wavelength** in current version.
 
 Thus the ***core equation*** to calculate intensity distribution is:
 
